@@ -1,0 +1,50 @@
+
+body {
+    background-color: #CEEDEB;
+    margin: 50 100 100 100px;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+	color: #002c49;
+
+	background-color: #EFF9F9;
+	text-align: center;
+    padding: 20px;
+    border-radius: 50px;
+}
+
+h1 h2 h3 { 
+    justify-content: center;
+}
+
+
+a {
+	text-decoration: none;
+    color: rgb(0, 98, 179);
+    margin: 20px;
+}
+
+img {
+    margin: 0 auto;
+    display: block;
+}
+
+.title {
+    
+    background-color: rgba(157, 157, 255, 0.63);
+}
+
+.cropped1 
+{
+    height: 350px;
+    object-fit: cover;
+
+}
+
+.cropped2
+{
+    height: 350px;
+    object-fit: cover;
+}
